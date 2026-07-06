@@ -1,0 +1,6 @@
+C:\Mouse Simulator\Frognet\Library\PackageCache\dev.purrnet.purrdiction@127ab395366a\Examples\SimpleCC.cs:27:        protected override void Simulate(SimpleWASDInput input, ref SimpleCCState state, float delta)
+C:\Mouse Simulator\Frognet\Library\PackageCache\dev.purrnet.purrdiction@127ab395366a\Examples\SimpleCC.cs:53:        protected override void GetFinalInput(ref SimpleWASDInput input)
+C:\Mouse Simulator\Frognet\Library\PackageCache\dev.purrnet.purrdiction@127ab395366a\Examples\TestStateNode.cs:17:        protected override void LateAwake()
+C:\Mouse Simulator\Frognet\Library\PackageCache\dev.purrnet.purrdiction@127ab395366a\Examples\TestStateNode.cs:19:            base.LateAwake();
+C:\Mouse Simulator\Frognet\Library\PackageCache\dev.purrnet.purrdiction@127ab395366a\Examples\TestStateNode.cs:25:        protected override void Simulate(SimpleWASDInput input, ref State state, float delta)
+C:\Mouse Simulator\Frognet\Library\PackageCache\dev.purrnet.purrdiction@127ab395366a\Examples\TestStateNode.cs:52:        protected override void GetFinalInput(ref SimpleWASDInput input)

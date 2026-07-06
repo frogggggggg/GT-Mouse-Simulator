@@ -1,0 +1,11 @@
+{
+  "name": "dev.purrnet.purrlobby",
+  "version": "1.0.0",
+  "displayName": "PurrLobby",
+  "description": "Lobby and matchmaking utilities for PurrNet",
+  "author": {
+    "name": "PurrNet Team",
+    "url": "https://purrnet.dev/"
+  },
+  "dependencies": {}
+}
